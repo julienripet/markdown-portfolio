@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I've **never** thought emphasis markers were that useful, I actually think they are ***quite* useless**
