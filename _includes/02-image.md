@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Picture of the moon, because why not!] (https://timedotcom.files.wordpress.com/2017/02/full-moon.jpg)
